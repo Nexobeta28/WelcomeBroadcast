@@ -26,7 +26,8 @@ namespace WelcomeBroadcast
 
 		public override void OnDisable()
 		{
-			EventHandlers = null;
+            Events.PlayerJoinEvent -= EventHandlers.OnPlayerJoin;
+            EventHandlers = null;
 		}
 
 		public override void OnReload()
