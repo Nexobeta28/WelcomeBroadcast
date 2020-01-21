@@ -10,4 +10,7 @@ Message:
 Duration of the message (in seconds):
 ```uint time = 5;```
 
-_ _ The DLL can be found on Releases tab. _ _
+## Download
+Download the repo, configure the broadcast message, and compile the file as a dll.
+
+Also, if you just wanna try the plugin, you can find the DLL with the default configuration in Releases.
