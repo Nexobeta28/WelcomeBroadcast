@@ -6,3 +6,6 @@ Both can be found in EventHandlers.cs
 
 Message:
 ```string message = "Welcome to my server!";```
+
+Duration of the message (in seconds):
+```uint time = 5;```
