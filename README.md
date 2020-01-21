@@ -10,4 +10,4 @@ Message:
 Duration of the message (in seconds):
 ```uint time = 5;```
 
-* * The DLL can be found on Releases tab. * *
+_ _ The DLL can be found on Releases tab. _ _
